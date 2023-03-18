@@ -1,0 +1,23 @@
+{
+  "name": "strict-loader-shr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pursuit01/strict-loader-shr.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pursuit01/strict-loader-shr/issues"
+  },
+  "devDependencies": {
+    "loader-utils": "^3.2.1"
+  },
+  "homepage": "https://github.com/Pursuit01/strict-loader-shr#readme"
+}
