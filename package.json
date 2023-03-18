@@ -1,7 +1,7 @@
 {
   "name": "strict-loader-shr",
   "version": "1.0.0",
-  "description": "一个自定义的 webpack loader，用来将打包后的js文件转成严格模式，支持缓存功能。",
+  "description": "一个自定义的 webpack loader，用来将js文件转成严格模式，支持缓存功能。",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
