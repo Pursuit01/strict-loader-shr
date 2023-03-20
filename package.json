@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/Pursuit01/strict-loader-shr/issues"
   },
-  "devDependencies": {
-    "loader-utils": "^3.2.1"
-  },
   "homepage": "https://github.com/Pursuit01/strict-loader-shr#readme"
 }
