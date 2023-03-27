@@ -1,4 +1,3 @@
-const loaderUtils = require("loader-utils");
 module.exports = function (context) {
   // 如果缓存存在，就使用缓存，用来加快 webpack 打包速度。
   if (this.cacheable) {
